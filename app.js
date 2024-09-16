@@ -20,7 +20,7 @@ app.post('/api/contact', (req, res) => {
     service: 'gmail',
     auth: {
       user: 'marinamachivayam2003@gmail.com', // Replace with your Gmail address
-      pass: 'fzxu yvab dlni shwj' // Replace with your Gmail password
+      pass: 'hvvd ddsq fywf zfvc' // Replace with your Gmail password
     }
   });
 
